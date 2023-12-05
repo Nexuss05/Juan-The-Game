@@ -7,10 +7,10 @@ Juan The Game is an exciting action game crafted with love using the SpriteKit f
 
 ## Key Features
 
-- **Accelerometer Control: Use your device's accelerometer to steer Juan through platforms. Feel the challenge as he leaps from level to level!
-- **Various Platforms: Take action on a variety of unique platforms and face ever-growing challenges as you ascend higher and higher.
-- **Game Over: Beware! The game ends when Juan falls below the bottom of the screen. Test yourself and see how high you can go!
-- **Scoring: Your score is determined by the highest altitude reached. Challenge yourself and your friends to achieve the highest score!
+- **Accelerometer Control:** Use your device's accelerometer to steer Juan through platforms.
+- **Various Platforms:** Take action on a variety of unique platforms and face ever-growing challenges as you ascend higher and higher.
+- **Game Over:** Beware! The game ends when Juan falls below the bottom of the screen. Test yourself and see how high you can go!
+- **Scoring:** Your score is determined by the highest altitude reached. Challenge yourself and your friends to achieve the highest score!
 
 ## How to Play
 
