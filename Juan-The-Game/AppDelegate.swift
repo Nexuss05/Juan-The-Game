@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  Juan-The-Game
 //
-//  Created by Matteo Cotena on 05/12/23.
-//
 
 import UIKit
 
